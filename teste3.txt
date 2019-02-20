@@ -1,2 +1,7 @@
 inicio remoto 3
+<<<<<<< HEAD
 Naruto >> Boruto
+
+
+lalala
+
